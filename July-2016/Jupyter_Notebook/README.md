@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Synopsis
 
 The purpose of this repository, specifically the Jupyter_Notebook_Demonstration.ipynb file contained within, is to:
@@ -34,6 +34,4 @@ From there, you can use the dashboard to navigate to wherever you placed the .ip
 
 
 # Happy learning!
-=======
-# Presentation
->>>>>>> 1bc5caa13dd062cd7749493631c46ba652ab449f
+
